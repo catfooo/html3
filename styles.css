@@ -29,3 +29,7 @@ a:visited:hover {
     margin-left: 40px;
 }
 /* samma indrag som ul: padding-inline-start: 40px; */
+
+.brown {
+    color:#88542e;
+}
