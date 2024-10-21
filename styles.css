@@ -1,1 +1,9 @@
-.margin-left{margin-left: 40px;} /* samma indrag som ul: padding-inline-start: 40px; */
+body {
+    font-family: SUSE;
+}
+
+.margin-left {
+    margin-left: 40px;
+}
+
+/* samma indrag som ul: padding-inline-start: 40px; */
