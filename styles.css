@@ -2,8 +2,11 @@ body {
     font-family: SUSE;
 }
 
+h1 {
+    font-family: 'Playwrite IT Moderna';
+}
+
 .margin-left {
     margin-left: 40px;
 }
-
 /* samma indrag som ul: padding-inline-start: 40px; */
