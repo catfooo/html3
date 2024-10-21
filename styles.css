@@ -13,6 +13,10 @@ h2 {
     color: #008b3a;
 }
 
+hr {
+    border: 1px dotted;
+}
+
 a {
     text-decoration: none;
 }
